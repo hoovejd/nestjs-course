@@ -1,7 +1,7 @@
 {
     "name": "nestjs-course",
     "version": "1.0.0",
-    "description": "Code for the Udemy NestJS course.",
+    "description": "Code for the Udemy NestJS course using course package versions.",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
