@@ -1,7 +1,7 @@
 {
-    "name": "nestjs-course",
+    "name": "nestjs-course-scratch",
     "version": "1.0.0",
-    "description": "Code for the Udemy NestJS course using course package versions.",
+    "description": "Code for the Udemy NestJS course using course package versions. This is the code for the initial project that was generated manually.",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
