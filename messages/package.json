@@ -1,8 +1,7 @@
 {
-  "name": "messages",
+  "name": "nestjs-course-messages",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Code for the Udemy NestJS course messges project using latest package versions.",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
