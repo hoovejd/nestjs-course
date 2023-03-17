@@ -3,6 +3,6 @@ import { ComputerModule } from './computer/computer.module';
 
 async function bootstrap() {
   const app = await NestFactory.create(ComputerModule);
-  await app.listen(3000);
+  await app.listen(3001);
 }
 bootstrap();
